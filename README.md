@@ -19,10 +19,8 @@ This project is a calorie counter application built with HTML, CSS, and JavaScri
 
 ### Screenshots
 
-![desktop](screenshots/screenshot-desktop-1.png?raw=true "Desktop")
-![desktop-active](screenshots/screenshot-desktop-2.png?raw=true "Desktop-Active")
-![mobile](screenshots/screenshot-mobile-1.png?raw=true "Mobile")
-![mobile-active](screenshots/screenshot-mobile-2.png?raw=true "Mobile-Active")
+![desktop](screenshots/screenshot-desktop.png?raw=true "Desktop")
+![mobile](screenshots/screenshot-mobile.png?raw=true "Mobile")
 
 ### Links
 
